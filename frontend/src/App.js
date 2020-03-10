@@ -9,7 +9,7 @@ function App() {
       <input value={colorA} onChange={(e) => setColorA(e.target.value)} style={{ fontSize: 30 }}/>
       <input value={colorB} onChange={(e) => setColorB(e.target.value)} style={{ marginTop: '1%', fontSize: 30 }} />
       <button style={{ marginTop: '1%', fontSize: 30 }} onClick={() => {
-        axios.post('http://localhost:3333', {
+        axios.post('https://mighty-woodland-51006.herokuapp.com/', {
           colorA,
           colorB
         })        
