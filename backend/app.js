@@ -11,9 +11,8 @@ app.use(express.json());
 
 app.post('/', (req, res) => {
     const { colorA, colorB } = req.body;
-    io.emit('colors', [colorA, colorB]);
+    io.emit('colors', {colorA, colorB});
     return res.status(200).send();
 });
-
 
 server.listen(3333);
