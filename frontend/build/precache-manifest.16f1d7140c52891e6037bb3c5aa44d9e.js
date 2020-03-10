@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7e107c160e4a3eba7fb5af35d13ec5de",
+    "revision": "e9dc1714da6fea04c52cc2e067650b8b",
     "url": "/paccolors/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/paccolors/static/js/2.50d53d6a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3c9a5e52a6fad84add37",
-    "url": "/paccolors/static/js/main.2e74ac3a.chunk.js"
+    "revision": "a164efc4ea795164ee93",
+    "url": "/paccolors/static/js/main.e9e83811.chunk.js"
   },
   {
     "revision": "068a2bb56cb0025aea7f",
