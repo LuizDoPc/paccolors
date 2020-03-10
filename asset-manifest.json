@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/paccolors/static/js/main.3a5748be.chunk.js",
-    "main.js.map": "/paccolors/static/js/main.3a5748be.chunk.js.map",
+    "main.js": "/paccolors/static/js/main.2e74ac3a.chunk.js",
+    "main.js.map": "/paccolors/static/js/main.2e74ac3a.chunk.js.map",
     "runtime-main.js": "/paccolors/static/js/runtime-main.8e918767.js",
     "runtime-main.js.map": "/paccolors/static/js/runtime-main.8e918767.js.map",
     "static/js/2.50d53d6a.chunk.js": "/paccolors/static/js/2.50d53d6a.chunk.js",
     "static/js/2.50d53d6a.chunk.js.map": "/paccolors/static/js/2.50d53d6a.chunk.js.map",
     "index.html": "/paccolors/index.html",
-    "precache-manifest.0437c6f0255fe1649536e21902450cc6.js": "/paccolors/precache-manifest.0437c6f0255fe1649536e21902450cc6.js",
+    "precache-manifest.f978dce6a12180cf98c1ce785b087a20.js": "/paccolors/precache-manifest.f978dce6a12180cf98c1ce785b087a20.js",
     "service-worker.js": "/paccolors/service-worker.js",
     "static/js/2.50d53d6a.chunk.js.LICENSE.txt": "/paccolors/static/js/2.50d53d6a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.8e918767.js",
     "static/js/2.50d53d6a.chunk.js",
-    "static/js/main.3a5748be.chunk.js"
+    "static/js/main.2e74ac3a.chunk.js"
   ]
 }
