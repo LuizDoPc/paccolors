@@ -15,4 +15,8 @@ app.post('/', (req, res) => {
     return res.status(200).send();
 });
 
-server.listen(3333);
+app.get('/', (req, res) => {
+    return res.status(200).send({ok: true})
+})
+
+server.listen(process.env.PORT || 5000);

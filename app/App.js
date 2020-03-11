@@ -10,7 +10,7 @@ const App = () => {
   const [colorB, setColorB] = useState('blue');
 
   useEffect(() => {
-    const socket = io('https://mighty-woodland-51006.herokuapp.com:3333');
+    const socket = io('https://mighty-woodland-51006.herokuapp.com');
     socket.on('colors', (colors) => {
       setColorA(colors.colorA);
       setColorB(colors.colorB);
